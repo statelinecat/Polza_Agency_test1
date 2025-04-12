@@ -19,8 +19,8 @@
 ### Установка и запуск
 
 #### 1. Клонировать репозиторий
-git clone https://github.com/your-username/complaint-api.git
-cd complaint-api
+git clone https://github.com/statelinecat/Polza_Agency_test1.git
+cd Polza_Agency_test1
 
 #### 2. Создать и активировать виртуальное окружение (опционально)
 python -m venv venv
